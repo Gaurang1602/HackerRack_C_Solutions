@@ -1,3 +1,6 @@
+Question--->>
+
+
 Print a pattern of numbers from  to  as shown below. Each of the numbers is separated by a single space.
 
                             4 4 4 4 4 4 4  
