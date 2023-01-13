@@ -57,6 +57,8 @@ More
     return 0;
 }
 
+Solution-->>
+
 
 #include <stdio.h>
 #include <string.h>
