@@ -1,4 +1,4 @@
-/*
+
 Objective
 
 The fundamental data types in c are int, float and char. Today, we're discussing int and float data types.
@@ -56,16 +56,6 @@ More
     return 0;
 }
 
-Line: 18 Col: 1
-
-Submit Code
-
-Run Code
-
-Upload Code as File
-
-Test against custom input
-*/
 
 #include <stdio.h>
 #include <string.h>
